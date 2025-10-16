@@ -10,15 +10,11 @@ developing threat-resistant applications, and exploring advanced security soluti
 - 📫 How to reach me: [Email](mailto:anorovhasan@gmail.com) · [Telegram](https://t.me/anorov_hasan)
 
 ## ⚙️ Tech Stack
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-2E3440?style=flat&logo=nmap&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Cyber Engineering](https://img.shields.io/badge/Cyber%20Engineering-5A5A5A?style=flat&logo=hackthebox&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -40,8 +36,7 @@ developing threat-resistant applications, and exploring advanced security soluti
 
 
 ## 🚀 Featured Projects
-- **KanoMessenger** – a mobile application for local communication without using the Internet.
-- **KanoRAT** – A link-logging, educational remote-access (simulated RAT) toolkit for blue-team training.
+
 
 ## 🌱 Currently Learning
 - Working on the above and additional cyber-related projects to build practical, hands-on skills.
