@@ -5,16 +5,16 @@ with a strong interest in **cyber engineering**—designing and building secure 
 developing threat-resistant applications, and exploring advanced security solutions.
 
 ## 🧩 About Me
-- 🛠 Currently working with **C++**, **Python** and security-related technologies  
-- 🛡 Passionate about **cyber engineering**, **software engineering**, **application security** and secure software development  
-- 📫 How to reach me: [Email](mailto:anorovhasan@gmail.com) · [Telegram](https://t.me/anorov_hasan)
+- 🛠 Currently working with **Python** and **R** programming languages 
+- 🛡 Passionate about **Machine learning**, **software engineering** and **Data Science** 
+- 📫 How to reach me: [Email](mailto:salokhiddinmukhiddinov@gmail.com) · [Telegram](https://t.me/Salokhiddin_Mukhiddinov)
 
 ## ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-2E3440?style=flat&logo=nmap&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![C++]([https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1067px-ISO_C%2B%2B_Logo.svg.png))
+![R](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FR_%2528programming_language%2529&psig=AOvVaw3aNXRk4cEpMvhzI4HgWVJJ&ust=1762244980791000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCPiS96LI1ZADFQAAAAAdAAAAABAE)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Assembly](https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw)
 
 ## 📊 GitHub Stats
 
