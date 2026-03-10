@@ -1,13 +1,14 @@
-# Hi there 👋, I'm Salokhiddin Mukhiddinov
+![image](https://github.com/user-attachments/assets/4bdbe08c-14db-4354-ba82-5151b90de467)# Hi there 👋, I'm Salokhiddin Mukhiddinov
 
 I’m a **Software Engineer** and **Data Science and ML graduate student at the University of Sydney**  
-with a strong interest in **cyber engineering**—designing and building secure systems,  
-developing threat-resistant applications, and exploring advanced security solutions.
+with a strong interest in **Machine learning** and building ML models,  
+developing AI agents, and exploring new opportunities and fields for growth in the AI realm.
 
 ## 🧩 About Me
 - 🛠 Currently working with **Python** and **R** programming languages 
 - 🛡 Passionate about **Machine learning**, **software engineering** and **Data Science** 
-- 📫 How to reach me: [Email](mailto:salokhiddinmukhiddinov@gmail.com) · [Telegram](https://t.me/Salokhiddin_Mukhiddinov)
+- 📫 How to reach me: [Email](mailto:salokhiddinmukhiddinov@gmail.com) · [Telegram](t.me//SalohiddinMuhiddinov
+)
 
 ## ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -39,10 +40,7 @@ Assembly
 
 
 ## 🌱 Currently Learning
-- Working on the above and additional cyber-related projects to build practical, hands-on skills.
-- Advanced cyber engineering and secure architecture design  
-- Applied cryptography for mobile and cloud applications
+- Machine Learning
+- Natural Language Processing
 - Math and algorithms )
-- Design of Networks and Distributed Systems (USYD) – strengthening secure network design and large-scale distributed architecture.
-- Google Cybersecurity Professional Certificate – Coursera (in progress)
-Industry-recognized program covering threat analysis, security operations (SOC), and network defense.
+- Visual Analytics
